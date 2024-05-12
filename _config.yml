@@ -22,11 +22,10 @@ description: >- # used by seo meta and the atom feed
   Chew Jin Hao, Ctjh, github, blog, Alice
 
 # Fill in the protocol & hostname for your site.
-# e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ctjh.github.io"
 
 github:
-  username: ctjh # change to your github username
+  username: Ctjh # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
