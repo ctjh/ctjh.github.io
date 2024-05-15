@@ -14,12 +14,14 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Alice # the main title
+title: Alice's Blog # the main title
 
 tagline: My Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Chew Jin Hao, Ctjh, github, blog, Alice
+  A home page for Chew Jin Hao< Alice, a Singaporean Student in River Valley High School.
+  Cybersecurity, webdev and linguistic enthusiast. 
+  
 
 # Fill in the protocol & hostname for your site.
 url: "https://ctjh.github.io"
