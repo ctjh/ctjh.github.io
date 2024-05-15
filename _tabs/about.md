@@ -9,7 +9,7 @@ order: 4
 
 
 ## Who Am I?
-Hi! I'm a 17 year old Singaporean interested in Cybersecurity and Web Development.\
+Hi! My name is Alice, or Jin Hao. I am a 17 year old Singaporean student interested in Cybersecurity and Web Development.\
 \
 I participate in a lot of CTFs, and currently specialize in Web, with a bit of experience in Crypto. Currently, I'm interested in expanding intro Rev, although I have not found much time lately\
 \
