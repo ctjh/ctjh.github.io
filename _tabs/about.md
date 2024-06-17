@@ -9,7 +9,7 @@ order: 4
 
 
 ## Who Am I?
-Hi! My name is Alice, or Chew Jin Hao. I am a 18 year old Singaporean student interested in Cybersecurity and Web Development, and I am currently studying in River Valley High School.\
+Hi! My name is Alice, or Chew Jin Hao. I am a 18 year old Singaporean girl interested in Cybersecurity and Web Development. I am currently a student studying in River Valley High School.\
 \
 I participate in a lot of CTFs, and currently specialize in Web, with a bit of experience in Crypto. Currently, I'm interested in expanding intro Rev, although I have not found much time lately\
 \
