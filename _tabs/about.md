@@ -6,13 +6,13 @@ order: 4
 
 
 ## Who Am I?
-Hi! My name is Alice, or Chew Jin Hao. I am a 18 year old Singaporean interested in Cybersecurity and Web Development. I am currently a student studying in River Valley High School.\
+Hi! My name is Alice, or Chew Jin Hao. I am a 19 year old Singaporean passionate about computer science, particularly Cybersecurity and Web Development. I am currently in the process of enrolling into university!\
 \
 I participate in a lot of CTFs, and currently specialize in Web, with a bit of experience in Crypto. Currently, I'm interested in expanding intro Rev, although I have not found much time lately\
 \
-Apart from techy stuff, I'm also very passionate about language! Currently, I am fluent in Chinese and English, with roughly a N3-N2 standard of Japanese. I have experience doing translation work, and will be taking comissions in the future
+Apart from techy stuff, I'm also very passionate about language! Currently, I am fluent in Chinese and English, with roughly a N3-N2 standard of Japanese. I will be taking my N3 JLPT examination in July this year. I also have experience doing translation work, and am planning on taking comissions in the future. 
 \
-As for my hobbies, I love reading and gaming! I have a very unhealthy obsession with competitive games such as Tetris and Chess, as well as FGs. 
+As for my hobbies, I love reading and gaming! I have a very unhealthy obsession with competitive games such as Tetris and Chess, as well as FGs. I've moved on from GBVSR to GGST, playing bridget and Asuka.
 
 
 ## Accademic Qualifications
